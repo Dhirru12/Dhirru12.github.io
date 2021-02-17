@@ -1,0 +1,184 @@
+h1{
+  font-family: "Bebas Neue";
+  font-weight: 2,100;
+  font-size: 5rem;
+  line-height: 1.5;
+}
+ #title{
+  background-color:  #ff6961;
+   color:white;
+ }
+.top-bar{
+  color:white;
+}
+.navbar-brand{
+  font-family: "Bebas Neue", Bold;
+  font-size: 2rem;
+  margin-right: 0;
+  margin-left: -2.225%;
+}
+.container-fluid{
+  padding: 0% 20%;
+}
+.nav-item{
+  padding:0 7%;
+  font-family: "Montserrat";
+  font-weight: 0,0
+}
+.navbar{
+  color:black;
+  padding-bottom: 2.5%;
+  background-color:  #ff6961;
+}
+/* Download Buttons */
+.download-button{
+  margin-right: 4%;
+}
+.btn-dark:hover, .btn-dark:focus, .btn-dark:active, .btn-dark.active, .open>.dropdown-toggle.btn-dark {
+    color: #000000;
+    background-color: #FFFFFF;
+    border-color: #000000; /*set the color you want here*/
+}
+/* title image */
+.title-image{
+  width:70%;
+  transform: rotate(25deg);
+  position: relative;
+  left: 25%;
+  padding-top: 7%;
+}
+/* features */
+#features{
+  background-color: white;
+  position: relative;
+  margin-top: -5%;
+}
+.feature-box{
+
+  padding: 5% 3% 5%;
+  text-align: center;
+}
+.feature-title{
+  font-family: "Bebas Neue";
+  font-size: 2rem;
+}
+.feature-desc{
+  font-family: "Montserrat";
+  font-size:;
+  color: grey;
+}
+.symbols{
+  tra
+}
+.table{
+
+}
+/* testimonials */
+#testimonials{
+  color:white;
+  background-color:  #ff6961;
+  text-align: center;
+}
+h2{
+  font-family: "Bebas Neue";
+  font-size: 4rem;
+  text-align: center;
+  color:white;
+  padding: 0 0 3%;
+  line-height: 1.5;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+}
+.testimonial-name{
+  padding-left: 2%
+}
+@media (max-width: 768px){
+h2{
+    font-size: 2.5rem;
+    .testimonial-image{
+      width: 10%;
+      border-radius: 100%;
+    }
+}
+.testimonial-image{
+  width: 30%;
+}
+}
+/* press */
+#press{
+  background-color:  #ff6961;
+}
+.press-images{
+  width: 15%;
+  padding: 0 2% 7%;
+}
+.carousel-item{
+  padding: 5% 22% 7%;
+}
+@media (max-width: 768px){
+  .press-images{
+    width: 25%;
+  }
+}
+@media (max-width: 992px){
+  .testimonial-image{
+    width: 20%;
+  }
+  .press-images{
+    width: 15%;
+  }
+}
+/* Pricing */
+#pricing{
+  padding: 5%;
+}
+.pricing-subheader{
+margin-top: -2%
+}
+.card{
+}
+.card-header{
+  background-color: #ff6961;
+  color: white;
+}
+.pricing-box{
+  padding: 3% 2.5% 3%;
+}
+h3{
+  font-family: "Bebas Neue";
+  font-size: 3rem;
+}
+h4{
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+}
+p{
+  font-family: "Montserrat";
+}
+.pricing-cost{
+
+}
+.card-payment-period{
+  color: #C0C0C0;
+}
+.card-body{
+
+}
+/* cta */
+#cta{
+  background-color: #ff6961;
+  color: white;
+  text-align: center;
+  padding:5% 7% 5%;
+}
+#cta.btn{
+  margin: 5% 0 5%;
+
+}
+/* footer */
+#footer{
+  text-align: center;
+  padding: 7% 0 7%;
+}
