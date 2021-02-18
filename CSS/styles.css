@@ -5,7 +5,7 @@ h1{
   line-height: 1.5;
 }
  #title{
-  background-color:  #ff6961;
+  background-image:  linear-gradient(#3FA0EF, #000000, #000000);
    color:white;
  }
 .top-bar{
@@ -26,9 +26,9 @@ h1{
   font-weight: 0,0
 }
 .navbar{
-  color:black;
   padding-bottom: 2.5%;
-  background-color:  #ff6961;
+  /*background-color:  #000000;*/
+  background: rgba(0, 0, 0, 0);
 }
 /* Download Buttons */
 .download-button{
@@ -49,9 +49,10 @@ h1{
 }
 /* features */
 #features{
-  background-color: white;
+  background-color: black;
   position: relative;
   margin-top: -5%;
+  color: white;
 }
 .feature-box{
 
@@ -61,11 +62,12 @@ h1{
 .feature-title{
   font-family: "Bebas Neue";
   font-size: 2rem;
+  color: white;
 }
 .feature-desc{
   font-family: "Montserrat";
   font-size:;
-  color: grey;
+  color: white;
 }
 .symbols{
   tra
