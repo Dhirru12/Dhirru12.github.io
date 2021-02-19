@@ -77,15 +77,15 @@ h1{
 }
 /* testimonials */
 #testimonials{
-  color:white;
-  background-color:  #ff6961;
+  color:black;
+  background-color:  white;
   text-align: center;
 }
 h2{
   font-family: "Bebas Neue";
   font-size: 4rem;
   text-align: center;
-  color:white;
+  color:black;
   padding: 0 0 3%;
   line-height: 1.5;
 }
