@@ -57,6 +57,9 @@ h1{
 .sub-header{
   text-align: center;
   padding-top: 5%;
+  padding-bottom: -10%;
+
+
 }
 .feature-box{
 
@@ -94,7 +97,7 @@ h2{
   line-height: 1.5;
 }
 .proj-click-me{
-  width:75px;
+  width:10%;
   height:auto;
 }
 .carousel-control-prev-icon {
