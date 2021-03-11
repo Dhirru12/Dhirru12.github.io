@@ -41,11 +41,10 @@ h1{
 }
 /* title image */
 .title-image{
-  width:70%;
-  transform: rotate(25deg);
+  width:130%;
   position: relative;
-  left: 25%;
-  padding-top: 7%;
+  margin-top: -20%;
+  margin-bottom: 25%;
 }
 /* features */
 #features{
